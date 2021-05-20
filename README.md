@@ -1,0 +1,1 @@
+This saved us a large amount of time by preventing NEC table lookups, and hand-calculations of things like voltage drop. If I were to rebuild this today, I would certainly use Python or JavaScript instead. I just happened to be using C++ heavily in school just before this internship and wanted the practice before the next semester of C++ courses.
